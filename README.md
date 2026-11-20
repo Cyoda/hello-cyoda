@@ -2,7 +2,7 @@
 
 Welcome to the “Hello-Cyoda” application for Cyoda, a cloud-based platform designed to simplify building applications using entity-based workflows. This repository is a **Kotlin** example application to connect with a Cyoda environment and demonstrates basic functions through interactive Jupyter notebooks.
 
-Other languages you can find on our [Cyoda-platform GitHub](https://github.com/Cyoda-platform).
+Other languages you can find on our [Cyoda GitHub](https://github.com/Cyoda).
 
 
 
@@ -22,8 +22,8 @@ This project demonstrates how to connect to the Cyoda environment and execute ba
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/Cyoda-platform/caas-hello-world.git
-cd caas-hello-world
+git clone https://github.com/Cyoda/hello-cyoda.git
+cd hello-cyoda
 ```
 
 ### Step 2: Set Up Environment Variables
